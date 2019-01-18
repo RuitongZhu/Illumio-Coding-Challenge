@@ -19,7 +19,7 @@ given rules are equal or not.
 There is a JUnit test for testing the basic functionality of the program
 
 #### Improvements suggested
-Right now I am iterating through a set of loops every time I want to check whether a given packet is valid or not. I would rather 
+Right now I am iterating through a set of rules every time I want to check whether a given packet is valid or not. I would rather 
 like to design a data structure where a certain rule corresponds to a specific value and a given packet can be matched against it in 
 order to improve linear time complexity 
 
